@@ -1,7 +1,7 @@
 
-![image](https://github.com/heltonx/embasint/assets/52825808/4a1389da-548b-4edd-bd83-5e807281390c)
-
-
+<p align="center">
+  <img src="https://github.com/heltonx/embasint/assets/52825808/703cd256-e9ba-4de1-ac82-0463bfc3cb67" />
+</p>
 
 ------------
 BRAZIL
