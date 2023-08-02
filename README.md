@@ -69,3 +69,18 @@ Information about a person (have to create a account):
 
 https://www.ukrecordscenter.com
 
+------------
+RUSSIA
+------------
+
+Social media most used in Russia:
+
+https://vk.com/
+
+Search engine:
+
+https://yandex.com/
+
+Vehicle license plates lookup:
+
+https://www.nomerogram.ru/
