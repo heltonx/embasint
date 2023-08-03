@@ -62,7 +62,7 @@ Vehicle license plates lookup (have to accept cookies):
 https://siv-auto.fr/index.php
 
 ------------
-UK
+UNITED kINGDOM
 ------------
 
 Information about a person (have to create a account):
