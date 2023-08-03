@@ -3,7 +3,7 @@
   <img src="https://github.com/heltonx/embasint/assets/52825808/703cd256-e9ba-4de1-ac82-0463bfc3cb67" />
 </p>
 
-The purpose of Embassint project is focused in osint over persons (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links that are frequently tested.
+The purpose of Embassint project is focused in osint over persons (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links that are objective and frequently tested.
 
 ------------
 BRAZIL
@@ -17,7 +17,7 @@ Judicial information:
 
 https://www.jusbrasil.com.br
 
-Search by CPF (brazilian ID):
+Search by CPF (brazilian ID) and CNPJ (business ID):
 
 https://www.situacao-cadastral.com
 
