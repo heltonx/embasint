@@ -3,7 +3,7 @@
   <img src="https://github.com/heltonx/embasint/assets/52825808/703cd256-e9ba-4de1-ac82-0463bfc3cb67" />
 </p>
 
-The purpose of Embassint project is focused in osint over persons (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links that are objective and frequently tested.
+The purpose of Embassint project is focused in osint over persons (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links I test often. I gave priority to select tools where you simply insert the data and do the search without complications.
 
 ------------
 BRAZIL
