@@ -27,7 +27,7 @@ https://www.qualoperadora.net
 
 Vehicle license plates lookup:
 
-https://www.keplaca.com (in Brazil probably requires VPN)
+https://www.keplaca.com
 
 ------------
 USA
