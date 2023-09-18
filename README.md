@@ -73,7 +73,7 @@ https://www.ukrecordscenter.com
 RUSSIA
 ------------
 
-Social media most used in Russia:
+Social network most used in Russia:
 
 https://vk.com/
 
