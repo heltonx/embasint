@@ -3,7 +3,7 @@
   <img src="https://github.com/heltonx/embasint/assets/52825808/703cd256-e9ba-4de1-ac82-0463bfc3cb67" />
 </p>
 
-Embassint project is focused in OSINT over persons (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links I test often. Given priority to select tools where you simply insert the data and do search without complications..
+Embassint project is focused in OSINT over persons (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links I test often. Given priority to select tools where you simply insert the data and do search without complications.
 
 ------------
 BRAZIL
