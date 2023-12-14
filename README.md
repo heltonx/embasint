@@ -21,7 +21,7 @@ Search by CPF (brazilian ID) and CNPJ (business ID):
 
 https://www.situacao-cadastral.com
 
-Find out what is the phone telecom, and the state:
+Find out what is the phone telecom and the state:
 
 https://www.qualoperadora.net
 
