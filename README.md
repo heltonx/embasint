@@ -51,7 +51,7 @@ https://thatsthem.com/reverse-phone-lookup
 
 Vehicle license plates lookup:
 
-https://infotracer.com/plate-lookup
+https://www.autodetective.com/license-plate-lookup
 
 ------------
 FRANCE
