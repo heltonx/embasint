@@ -5,6 +5,8 @@
 
 Embassint project is focused in OSINT over persons (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links I test often. Given priority to select tools where you simply insert the data and do search without complications (to create account or sign in).
 
+Last check: Jan 8 2024 23:03 
+
 ------------
 BRAZIL
 ------------
