@@ -5,7 +5,7 @@
 
 Embassint project is FOCUSED IN OSINT OVER PERSON (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links I test often. Given priority to select tools where you SIMPLY INSERT THE DATA and do search without complications (to create account or sign in). The main countries are on top, others in alphabetic orders.
 
-Last check: Jan 8 2024 23:03 
+Last check: Jan 24 2024 22:16 
 
 ------------
 BRAZIL
