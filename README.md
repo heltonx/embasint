@@ -27,7 +27,7 @@ Find out what is the phone telecom and the state:
 
 https://www.qualoperadora.net
 
-Vehicle license plates lookup:
+Vehicle license plates lookup (if you're in Brazil maybe have to use VPN):
 
 https://www.keplaca.com
 
