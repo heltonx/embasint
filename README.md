@@ -43,7 +43,7 @@ Judicial information:
 
 https://www.judyrecords.com
 
-Search by social security number (provides local and year it was issued):
+Search by social security number (provides local/state and year it was issued):
 
 https://www.ssn-check.org
 
