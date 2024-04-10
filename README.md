@@ -11,7 +11,7 @@ Last check: Jan 24 2024 22:16
 BRAZIL
 ------------
 
-Information about a person:
+Information about people:
 
 https://www.escavador.com
 
