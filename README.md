@@ -91,7 +91,7 @@ https://www.nomerogram.ru/
 CANADA
 ------------
 
-Information about a person, and search of numbers:
+Information about people, and search of numbers:
 
 https://411numbers-canada.com/
 
