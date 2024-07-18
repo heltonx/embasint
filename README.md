@@ -3,7 +3,7 @@
   <img src="https://github.com/heltonx/embasint/assets/52825808/703cd256-e9ba-4de1-ac82-0463bfc3cb67" />
 </p>
 
-Embassint project is FOCUSED IN OSINT OVER PEOPLE (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links I test often. Given priority to select tools where you JUST INSERT DATA and do search without complications (to create account or sign in). The main countries are on top, others in alphabetic orders.
+Embassint project is meant for infosec ethical and professional activities to do osint over people (and not countries or companies) around the world. I've choosed to reunite just a few working links for each country, but links I test often. Given priority to select tools where you JUST INSERT DATA and do search without complications (to create account or sign in). The main countries are on top, others in alphabetic orders.
 
 Last partial check: Jul 17 2024 20:33 
 
