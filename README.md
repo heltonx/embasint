@@ -111,3 +111,10 @@ NETHERLANDS
 Vehicle license plates lookup :
 
 https://www.kentekencheck.nl/?niet-gevonden
+
+
+------------
+NORWAY
+------------
+
+https://www.vegvesen.no/kjoretoy/kjop-og-salg/kjoretoyopplysninger/sjekk-kjoretoyopplysninger/
