@@ -117,4 +117,6 @@ https://www.kentekencheck.nl/?niet-gevonden
 NORWAY
 ------------
 
+Vehicle license plates lookup :
+
 https://www.vegvesen.no/kjoretoy/kjop-og-salg/kjoretoyopplysninger/sjekk-kjoretoyopplysninger/
