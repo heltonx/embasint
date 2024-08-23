@@ -3,7 +3,7 @@
   <img src="https://github.com/heltonx/embasint/assets/52825808/703cd256-e9ba-4de1-ac82-0463bfc3cb67" />
 </p>
 
-Project is meant for infosec ethical and professional activities (and not countries or companies) over people around the world. I've choosed to reunite just a few working links for each country, but links I test often. Given priority to select tools where you JUST INSERT DATA and do search without complications (to create account or sign in). The main countries are on top, others in alphabetic orders.
+Project is meant for infosec ethical and professional activities (and not countries or companies) over people around the world. I've choosed to reunite just a few working links for each country, but links I test often. Given priority to select tools where you JUST INSERT DATA and do search without complications (to create account or sign in). The main countries are on top, others in alphabetical order.
 
 Last partial check: Aug 19 2024 22:40 
 
