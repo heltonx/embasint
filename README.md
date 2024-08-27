@@ -35,7 +35,7 @@ https://www.keplaca.com
 USA
 ------------
 
-Information about a person:
+Information about people:
 
 https://www.whitepages.com
 
