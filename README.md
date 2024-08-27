@@ -120,3 +120,8 @@ NORWAY
 Vehicle license plates lookup:
 
 https://www.vegvesen.no/kjoretoy/kjop-og-salg/kjoretoyopplysninger/sjekk-kjoretoyopplysninger/
+
+
+------------
+SAMPLE
+------------
