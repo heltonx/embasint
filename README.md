@@ -88,6 +88,14 @@ Vehicle license plates lookup:
 https://www.nomerogram.ru/
 
 ------------
+AUSTRALIA
+------------
+
+Information about people:
+
+https://personlookup.com.au
+
+------------
 CANADA
 ------------
 
@@ -122,6 +130,4 @@ Vehicle license plates lookup:
 https://www.vegvesen.no/kjoretoy/kjop-og-salg/kjoretoyopplysninger/sjekk-kjoretoyopplysninger/
 
 
-------------
-AUSTRALIA
-------------
+
