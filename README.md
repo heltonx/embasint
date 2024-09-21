@@ -32,6 +32,14 @@ Vehicle license plates lookup (if you're in Brazil maybe have to use VPN):
 https://www.keplaca.com
 
 ------------
+CHINA
+------------
+
+Search engine:
+
+https://www.baidu.com/
+
+------------
 USA
 ------------
 
