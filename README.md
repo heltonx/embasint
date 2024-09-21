@@ -104,7 +104,7 @@ https://www.nomerogram.ru/
 
 Popular streaming / video / TV site:
 
-rutube.ru/
+http://rutube.ru/
 
 ------------
 AUSTRALIA
